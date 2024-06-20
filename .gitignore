@@ -1,0 +1,6 @@
+*.pyc
+.ruff_cache
+
+Makefile
+pyproject.toml 
+poetry.lock
